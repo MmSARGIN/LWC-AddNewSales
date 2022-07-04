@@ -1,0 +1,12 @@
+.item{
+    margin-bottom: 20px;
+    width: 50vh;
+    text-transform: uppercase;
+}
+.aaa{
+    text-transform: lowercase;
+}
+.slds-modal{
+    
+    background-color: rgb(255, 255, 255);
+}
